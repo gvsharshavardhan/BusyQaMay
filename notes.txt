@@ -1,0 +1,35 @@
+shortcuts:
+
+ctrl + d : duplicate line
+ctrl + y : delete line
+sout: print stmt
+main: main method
+
+Arithmetic:
++
+-
+*
+/
+%
+
+Assignment operator:
+=
+
+relational operators: output is always a boolean
+>
+<
+>=
+<=
+==
+!=
+
+logical operator: boolean
+and -> &&
+or -> ||
+not -> !
+
+unary operators:
+
+++ -> increment
+-- -> decrement
+
