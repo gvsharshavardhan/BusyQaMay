@@ -33,3 +33,9 @@ unary operators:
 ++ -> increment
 -- -> decrement
 
+Public - we can access members from anywhere in the project
+private - only within the class
+default - only within the package
+protected - only within the pkg + within inheritance
+
+this:
